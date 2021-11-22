@@ -1,2 +1,2 @@
-This is new line
-this is new line 2
+
+THIS IS EDITED VERSION OF FILE
